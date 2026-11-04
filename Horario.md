@@ -4,8 +4,8 @@
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **07:00 a.m. - 08:00 a.m.** |Disponible |Disponible |Disponible |********** |Disponible |Disponible |Disponible |
 | **08:00 a.m. - 09:00 a.m.** |Disponible |Disponible |Disponible |********** |Disponible |Disponible |Disponible |
-| **09:00 a.m. - 10:00 a.m.** |********** |Disponible |********** |********** |********** |Disponible |Curso de Termodinámica II |
-| **10:00 a.m. - 11:00 a.m.** |********** |********** |********** |********** |********** |Disponible |Curso de Termodinámica II |
+| **09:00 a.m. - 10:00 a.m.** |********** |Disponible |********** |********** |********** |Disponible |__Curso de Termodinámica II__ |
+| **10:00 a.m. - 11:00 a.m.** |********** |********** |********** |********** |********** |Disponible |__Curso de Termodinámica II__ |
 | **11:00 a.m. - 12:00 p.m.** |********** |********** |********** |********** |********** |Disponible |Disponible |
 | **12:00 p.m. - 01:00 p.m.** |********** |********** |********** |********** |********** |Disponible |Disponible |
 | **01:00 p.m. - 02:00 p.m.** |********** |********** |********** |Disponible |Disponible |Disponible |Disponible |
@@ -27,11 +27,11 @@
 | **11:00 a.m. - 12:00 p.m.** |Física III |Termodinámica |Termodinámica |Física III |Matemática I |Disponible |Disponible |
 | **12:00 p.m. - 01:00 p.m.** |Física III |Termodinámica |Termodinámica |Física III |Matemática I |Disponible |Disponible |
 | **01:00 p.m. - 02:00 p.m.** |Matemática I |Matemática I |Estadística II |Disponible |Disponible |Disponible |Disponible |
-| **02:00 p.m. - 03:00 p.m.** |Curso de Métodos Numéricos|Matemática I |Estadística II |Disponible |Disponible |Disponible |Disponible |
-| **03:00 p.m. - 04:00 p.m.** |Curso de Métodos Numéricos |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
+| **02:00 p.m. - 03:00 p.m.** |__Curso de Métodos Numéricos__|Matemática I |Estadística II |Disponible |Disponible |Disponible |Disponible |
+| **03:00 p.m. - 04:00 p.m.** |__Curso de Métodos Numéricos__ |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
 | **04:00 p.m. - 05:00 p.m.** |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
-| **05:00 p.m. - 06:00 p.m.** |Disponible |Curso de Estadística |Disponible |Disponible |Disponible |Disponible |Disponible |
-| **06:00 p.m. - 07:00 p.m.** |Disponible |Curso de Estadística |Disponible |Disponible |Disponible |Disponible |Disponible |
+| **05:00 p.m. - 06:00 p.m.** |Disponible |__Curso de Estadística__ |Disponible |Disponible |Disponible |Disponible |Disponible |
+| **06:00 p.m. - 07:00 p.m.** |Disponible |__Curso de Estadística__ |Disponible |Disponible |Disponible |Disponible |Disponible |
 
 
 Este horario se actualiza en tiempo real.
