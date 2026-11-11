@@ -1,37 +1,37 @@
 # Semana del lunes 09/11/2026 al domingo 15/11/2026.
 
-| Hora | Lunes **09 Nov** | Martes **10 Nov** | Miércoles **11 Nov** | Jueves **12 Nov** | Viernes **13 Nov** | Sábado **14 Nov** | Domingo **15 Nov** |
+| Hora | Lunes(09 Nov) | Martes (10 Nov) | Miércoles (11 Nov) | Jueves (12 Nov) | Viernes (13 Nov) | Sábado (14 Nov) | Domingo (15 Nov) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **07:00 a.m. - 08:00 a.m.** |Disponible |Disponible |Disponible |********** |Disponible |Disponible |Disponible |
 | **08:00 a.m. - 09:00 a.m.** |Disponible |Disponible |Disponible |********** |Disponible |Disponible |Disponible |
-| **09:00 a.m. - 10:00 a.m.** |********** |Disponible |********** |********** |********** |Disponible |__Curso de Termodinámica II__ |
-| **10:00 a.m. - 11:00 a.m.** |********** |********** |********** |********** |********** |Disponible |__Curso de Termodinámica II__ |
+| **09:00 a.m. - 10:00 a.m.** |********** |Disponible |********** |********** |********** |Disponible |Disponible |
+| **10:00 a.m. - 11:00 a.m.** |********** |********** |********** |********** |********** |Disponible |Disponible |
 | **11:00 a.m. - 12:00 p.m.** |********** |********** |********** |********** |********** |Disponible |Disponible |
 | **12:00 p.m. - 01:00 p.m.** |********** |********** |********** |********** |********** |Disponible |Disponible |
 | **01:00 p.m. - 02:00 p.m.** |********** |********** |********** |Disponible |Disponible |Disponible |Disponible |
 | **02:00 p.m. - 03:00 p.m.** |********** |********** |********** |Disponible |Disponible |Disponible |Disponible |
-| **03:00 p.m. - 04:00 p.m.** |__Curso Matemática II__ |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
-| **04:00 p.m. - 05:00 p.m.** |__Curso Matemática II__ |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
+| **03:00 p.m. - 04:00 p.m.** |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
+| **04:00 p.m. - 05:00 p.m.** |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
 | **05:00 p.m. - 06:00 p.m.** |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
 | **06:00 p.m. - 07:00 p.m.** |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
 
 
 # Semana del lunes 16/11/2026 al domingo 22/11/2026.
 
-| Hora | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado | Domingo |
+| Hora | Lunes(16 Nov) | Martes (17 Nov) | Miércoles (18 Nov) | Jueves (19 Nov) | Viernes (20 Nov) | Sábado (21 Nov) | Domingo (22 Nov) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **07:00 a.m. - 08:00 a.m.** |Disponible |Disponible |Disponible |Matemática I |Disponible |Disponible |Disponible |
-| **08:00 a.m. - 09:00 a.m.** |Disponible |Disponible |Disponible |Matemática I |Disponible |Disponible |Disponible |
-| **09:00 a.m. - 10:00 a.m.** |Matemática III |Disponible |Matemática III |Matemática III |Matemática I |Disponible |Disponible |
-| **10:00 a.m. - 11:00 a.m.** |Matemática III |Termodinámica I |Matemática III |Matemática III |Matemática I |Disponible |Disponible |
-| **11:00 a.m. - 12:00 p.m.** |Física III |Termodinámica |Termodinámica |Física III |Matemática I |Disponible |Disponible |
-| **12:00 p.m. - 01:00 p.m.** |Física III |Termodinámica |Termodinámica |Física III |Matemática I |Disponible |Disponible |
-| **01:00 p.m. - 02:00 p.m.** |Matemática I |Matemática I |Estadística II |Disponible |Disponible |Disponible |Disponible |
-| **02:00 p.m. - 03:00 p.m.** |__Curso de Métodos Numéricos__|Matemática I |Estadística II |Disponible |Disponible |Disponible |Disponible |
-| **03:00 p.m. - 04:00 p.m.** |__Curso de Métodos Numéricos__ |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
+| **07:00 a.m. - 08:00 a.m.** |Disponible |Disponible |Disponible |********** |Disponible |Disponible |Disponible |
+| **08:00 a.m. - 09:00 a.m.** |Disponible |Disponible |Disponible |********** |Disponible |Disponible |Disponible |
+| **09:00 a.m. - 10:00 a.m.** |********** |Disponible |********** |********** |********** |Disponible |Disponible |
+| **10:00 a.m. - 11:00 a.m.** |********** |********** |********** |********** |********** |Disponible |Disponible |
+| **11:00 a.m. - 12:00 p.m.** |********** |********** |********** |********** |********** |Disponible |Disponible |
+| **12:00 p.m. - 01:00 p.m.** |********** |********** |********** |********** |********** |Disponible |Disponible |
+| **01:00 p.m. - 02:00 p.m.** |********** |********** |********** |Disponible |Disponible |Disponible |Disponible |
+| **02:00 p.m. - 03:00 p.m.** |********** |********** |********** |Disponible |Disponible |Disponible |Disponible |
+| **03:00 p.m. - 04:00 p.m.** |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
 | **04:00 p.m. - 05:00 p.m.** |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
-| **05:00 p.m. - 06:00 p.m.** |Disponible |__Curso de Estadística__ |Disponible |Disponible |Disponible |Disponible |Disponible |
-| **06:00 p.m. - 07:00 p.m.** |Disponible |__Curso de Estadística__ |Disponible |Disponible |Disponible |Disponible |Disponible |
+| **05:00 p.m. - 06:00 p.m.** |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
+| **06:00 p.m. - 07:00 p.m.** |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
 
 
 Este horario se actualiza en tiempo real.
