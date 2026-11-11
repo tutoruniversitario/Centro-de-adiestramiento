@@ -39,7 +39,4 @@ Para reservar un horario para cursos, usted debe:
 1) Verificar la disponibilidad.
 2) Hacer un pago móvil a los siguientes datos: 0174 (Banplus) / 8278411 / 04249744352
 3) Enviar un mensaje de whatsapp al 04249744352 donde indique horario, materia y contenido a estudiar.
-<p style="color: red;">Este texto es de color rojo.</p>
-<p style="color: blue;">Este texto es de color azul.</p>
-<p style="color: #FF5733;">Este texto tiene un color personalizado (naranja/coral).</p>
-<p style="color: #2E86C1;">Este texto tiene un tono azulado.</p>
+$\color{blue}{\text{Este texto es azul en MathJax}}$
