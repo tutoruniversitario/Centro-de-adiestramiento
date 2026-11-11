@@ -1,6 +1,6 @@
-# Semana del lunes 25/10/2026 al domingo 01/11/2026.
+# Semana del lunes 09/11/2026 al domingo 15/11/2026.
 
-| Hora | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado | Domingo |
+| Hora | Lunes 09 Nov | Martes 10 Nov | Miércoles 11 Nov | Jueves 12 Nov | Viernes 13 Nov | Sábado 14 Nov | Domingo 15 Nov |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **07:00 a.m. - 08:00 a.m.** |Disponible |Disponible |Disponible |********** |Disponible |Disponible |Disponible |
 | **08:00 a.m. - 09:00 a.m.** |Disponible |Disponible |Disponible |********** |Disponible |Disponible |Disponible |
@@ -16,7 +16,7 @@
 | **06:00 p.m. - 07:00 p.m.** |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
 
 
-# Semana del lunes 02/11/2026 al domingo 08/11/2026.
+# Semana del lunes 16/11/2026 al domingo 22/11/2026.
 
 | Hora | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado | Domingo |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
