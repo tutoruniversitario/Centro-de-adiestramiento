@@ -41,3 +41,5 @@ Para reservar un horario para cursos, usted debe:
 3) Enviar un mensaje de whatsapp al 04249744352 donde indique horario, materia y contenido a estudiar.
 <p style="color: red;">Este texto es de color rojo.</p>
 <p style="color: blue;">Este texto es de color azul.</p>
+<p style="color: #FF5733;">Este texto tiene un color personalizado (naranja/coral).</p>
+<p style="color: #2E86C1;">Este texto tiene un tono azulado.</p>
