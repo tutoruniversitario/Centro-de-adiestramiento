@@ -10,8 +10,7 @@
 | **12:00 p.m. - 01:00 p.m.** |********** |********** |********** |********** |********** |Disponible |Disponible |
 | **01:00 p.m. - 02:00 p.m.** |********** |********** |********** |Disponible |Disponible |Disponible |Disponible |
 | **02:00 p.m. - 03:00 p.m.** |********** |********** |********** |Disponible |Disponible |Disponible |Disponible |
-| **03:00 p.m. - 04:00 p.m.** |Disponible |Disponible |Disponible |Disponible |$\color{Red}{\text{Curso de Fenómenos de Transporte}}$
- |Disponible |Disponible |
+| **03:00 p.m. - 04:00 p.m.** |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
 | **04:00 p.m. - 05:00 p.m.** |Disponible |Disponible |Disponible |Disponible |__Curso de Fenómenos de Transporte__ |Disponible |Disponible |
 | **05:00 p.m. - 06:00 p.m.** |Disponible |Disponible |Disponible |Disponible |__Curso de Fenómenos de Transporte__ |Disponible |Disponible |
 | **06:00 p.m. - 07:00 p.m.** |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |Disponible |
