@@ -8,8 +8,8 @@
 | **10:00 a.m. - 11:00 a.m.** |********** |********** |********** |********** |********** |Disponible |Disponible |
 | **11:00 a.m. - 12:00 p.m.** |********** |********** |********** |********** |********** |Disponible |Disponible |
 | **12:00 p.m. - 01:00 p.m.** |********** |********** |********** |********** |********** |Disponible |Disponible |
-| **01:00 p.m. - 02:00 p.m.** |********** |********** |********** |Disponible |Disponible |Disponible |Disponible |
-| **02:00 p.m. - 03:00 p.m.** |********** |********** |********** |Disponible |Disponible |Disponible |Disponible |
+| **01:00 p.m. - 02:00 p.m.** |********** |********** |********** |Disponible |__Curso de Mecáncia Racional I__ |Disponible |Disponible |
+| **02:00 p.m. - 03:00 p.m.** |********** |********** |********** |Disponible |__Curso de Mecánica Racional I__ |Disponible |Disponible |
 | **03:00 p.m. - 04:00 p.m.** |Disponible |Disponible |Disponible |Disponible |__Curso de Fenómenos de Transporte__ |Disponible |Disponible |
 | **04:00 p.m. - 05:00 p.m.** |Disponible |Disponible |Disponible |Disponible |__Curso de Fenómenos de Transporte__ |Disponible |Disponible |
 | **05:00 p.m. - 06:00 p.m.** |Disponible |Disponible |Disponible |Disponible |__Curso de Fenómenos de Transporte__ |Disponible |Disponible |
